@@ -43,3 +43,4 @@ const controlRecipes = async function () {
 ); //same shit prettier
 // window.addEventListener('hashchange', controlRecipes);
 // window.addEventListener('load', controlRecipes);
+console.log('testing pame ligo');
